@@ -61,4 +61,4 @@ Sinta-se à vontade para me contatar se tiver alguma pergunta, sugestão ou opor
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=theMyntt&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=theMyntt&show_icons=true&theme=dark)
