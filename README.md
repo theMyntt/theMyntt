@@ -13,8 +13,8 @@ Olá, sou Gabriel Araújo, um entusiasta da programação e apaixonado por tecno
 
 ## Habilidades
 
-- Linguagens de programação: C, C#, SQLite e Java.
-- Frameworks e tecnologias: ReactJS (com ou sem TypeScript) e PHP.
+- Linguagens de programação: C, C#, SQLite, Microsoft SQL Server, Java e PHP.
+- Frameworks e tecnologias: ReactJS.
 - Ferramentas: Visual Studio Codium, Git e Figma.
 
 <div>  
@@ -33,6 +33,8 @@ Olá, sou Gabriel Araújo, um entusiasta da programação e apaixonado por tecno
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px"/>
 
@@ -61,6 +63,3 @@ Sinta-se à vontade para me contatar se tiver alguma pergunta, sugestão ou opor
 
 - Contribuições são bem-vindas! Se você encontrar algum problema nos meus projetos ou tiver sugestões de melhorias, fique à vontade para abrir uma issue ou um pull request.
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=theMyntt&show_icons=true&theme=dark)
