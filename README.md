@@ -8,12 +8,12 @@ Olá, sou Gabriel Araújo, um entusiasta da programação e apaixonado por tecno
 
 - 🔭 Atualmente estou em busca do primeiro emprego.
 - 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em Análise e Desenvolvimento de Sistemas.
-- 💡 Tenho interesse em Java, C# e PHP.
+- 💡 Tenho interesse em Java, C++,C# e PHP.
 - 🎓 Estou cursando Desenvolvimento de Sistemas na [Etec Horácio](https://etechoracio.com.br).
 
 ## Habilidades
 
-- Linguagens de programação: C, C#, SQLite, Microsoft SQL Server, Java e PHP.
+- Linguagens de programação: C, C++,SQLite, Microsoft SQL Server, PHP.
 - Frameworks e tecnologias: ReactJS.
 - Ferramentas: Visual Studio Codium, Git e Figma.
 
@@ -28,9 +28,7 @@ Olá, sou Gabriel Araújo, um entusiasta da programação e apaixonado por tecno
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30px"/>
 
