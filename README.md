@@ -2,19 +2,20 @@
 
 ## Olá! 👋
 
-Olá, sou Gabriel Araújo, um entusiasta da programação e apaixonado por tecnologia. Bem-vindo ao meu perfil do GitHub! Aqui você encontrará informações sobre mim, meus projetos e habilidades.
+Olá, bem-vindo ao meu perfil do GitHub! Sou Gabriel Araújo, um entusiasta da programação e apaixonado por tecnologia. Aqui você encontrará informações sobre mim, meus projetos e habilidades.
 
 ## Sobre mim
 
-- 🔭 Atualmente estou em busca do primeiro emprego.
-- 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em Análise e Desenvolvimento de Sistemas.
-- 💡 Tenho interesse em Java, C++,C# e PHP.
+- 🔭 Atualmente estou em busca da minha primeira colocação no mercado de trabalho;
+- 🌱 Busco, constantemente, aprendendizado e o aprimoramento de minhas habilidades em Análise e Desenvolvimento de Sistemas;
+- 💡 Tenho interesse em Java, C++ e PHP;
 - 🎓 Estou cursando Desenvolvimento de Sistemas na [Etec Horácio](https://etechoracio.com.br).
 
 ## Habilidades
 
-- Linguagens de programação: C, C++,SQLite, Microsoft SQL Server, PHP.
-- Frameworks e tecnologias: ReactJS.
+- Linguagens de programação: C, C++, Java, Javascript, Typescript, PHP e SQL;
+- Serviços de Banco de Dados: MySQL, SQL Server e SQLite;
+- Frameworks: ReactJS e React Native;
 - Ferramentas: Visual Studio Codium, Git e Figma.
 
 <div>  
@@ -47,20 +48,20 @@ Olá, sou Gabriel Araújo, um entusiasta da programação e apaixonado por tecno
 
 Aqui estão alguns dos meus projetos recentes:
 
-- <a href="https://github.com/matheuscoletti08/Luxure"> - Luxure.</a> Site de marca de roupas que irá ter os sitemas de login, simulação de compra, carrinho entre outros.
-- <a href="https://github.com/theMyntt/regularize-ja"> - Regularize já! </a> Site de uma acessora de imóveis.
-- [- Search+](https://github.com/theMyntt/SearchPlus) Site de controle de acesso com sistemas de alterar ultima participação e somar +1 na participação do cadastrado.
+- [- Luxure](https://github.com/matheuscoletti08/Luxure) Site de grife vestuária, que terá os sitemas de login, simulação de compra, carrinho, entre outros;
+- [- Regularize já!](https://github.com/theMyntt/regularize-ja) Site de assessoria imobiliária;
+- [- Search+](https://github.com/theMyntt/SearchPlus) Site para controle de acesso, com sistemas para alteração de data da última participação, e somatória "+1" na participação do cadastrado.
 
 ## Contato
 
-Se você gostaria de entrar em contato comigo, você pode me encontrar nos seguintes canais:
+Para entrar em contato comigo, você pode me escrever ou seguir meu perfil profissional:
 
-- Email: gabriel.araujo2902@hotmail.com
+- Email: gabriel.araujo2902@outlook.com
 - LinkedIn: [Meu perfil](https://www.linkedin.com/in/gabriel-ara%C3%BAjo-lima-90667726a/)
 
-Sinta-se à vontade para me contatar se tiver alguma pergunta, sugestão ou oportunidade de colaboração.
+Aguardo seu contato.
 
 ## Contribuições
 
-- Contribuições são bem-vindas! Se você encontrar algum problema nos meus projetos ou tiver sugestões de melhorias, fique à vontade para abrir uma issue ou um pull request.
+- Contribuições são bem-vindas! Para relatar algum problema em meus projetos, ou, caso você tenha alguma sugestão ou melhorias, fique à vontade para abrir uma issue ou um pull request.
 
