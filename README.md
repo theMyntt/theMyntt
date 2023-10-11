@@ -1,5 +1,3 @@
-# Gabriel Araújo Lima
-
 ## Olá! 👋
 
 Olá, bem-vindo ao meu perfil do GitHub! Sou Gabriel Araújo, um entusiasta da programação e apaixonado por tecnologia. Aqui você encontrará informações sobre mim, meus projetos e habilidades.
@@ -8,14 +6,14 @@ Olá, bem-vindo ao meu perfil do GitHub! Sou Gabriel Araújo, um entusiasta da p
 
 - 🔭 Atualmente estou em busca da minha primeira colocação no mercado de trabalho;
 - 🌱 Busco, constantemente, aprendendizado e o aprimoramento de minhas habilidades em Análise e Desenvolvimento de Sistemas;
-- 💡 Tenho interesse em Java, C++ e PHP;
+- 💡 Tenho interesse em ReactJS, AngularJS, Flutter e PHP;
 - 🎓 Estou cursando Desenvolvimento de Sistemas na [Etec Horácio](https://etechoracio.com.br).
 
 ## Habilidades
 
-- Linguagens de programação: C, C++, Java, Javascript, Typescript, PHP e SQL;
+- Linguagens de programação: Java, Javascript, Typescript, PHP e SQL;
 - Serviços de Banco de Dados: MySQL, SQL Server e SQLite;
-- Frameworks: ReactJS e React Native;
+- Frameworks: Básico em ReactJS e React Native;
 - Ferramentas: Visual Studio Codium, Git e Figma.
 
 <div>  
@@ -27,17 +25,19 @@ Olá, bem-vindo ao meu perfil do GitHub! Sou Gabriel Araújo, um entusiasta da p
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30px" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30px" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" />
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30px" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
 
@@ -48,7 +48,7 @@ Olá, bem-vindo ao meu perfil do GitHub! Sou Gabriel Araújo, um entusiasta da p
 
 Aqui estão alguns dos meus projetos recentes:
 
-- [- Luxure](https://github.com/matheuscoletti08/Luxure) Site de grife vestuária, que terá os sitemas de login, simulação de compra, carrinho, entre outros;
+- [- Luxure](https://github.com/theMyntt/Luxure) Site de grife vestuária, que terá os sitemas de login, simulação de compra, carrinho, entre outros;
 - [- Regularize já!](https://github.com/theMyntt/regularize-ja) Site de assessoria imobiliária;
 - [- Search+](https://github.com/theMyntt/SearchPlus) Site para controle de acesso, com sistemas para alteração de data da última participação, e somatória "+1" na participação do cadastrado.
 
