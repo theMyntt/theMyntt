@@ -51,6 +51,7 @@ Aqui estão alguns dos meus projetos recentes:
 - [- Luxure](https://github.com/theMyntt/Luxure) Site de grife vestuária, que terá os sitemas de login, simulação de compra, carrinho, entre outros;
 - [- Regularize já!](https://github.com/theMyntt/regularize-ja) Site de assessoria imobiliária;
 - [- Search+](https://github.com/theMyntt/SearchPlus) Site para controle de acesso, com sistemas para alteração de data da última participação, e somatória "+1" na participação do cadastrado.
+- [- TS_Calculator](https://github.com/theMyntt/TS_Calculator) Calculadora feita com HTML, CSS e Typescript.
 
 ## Contato
 
