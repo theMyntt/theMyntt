@@ -2,6 +2,8 @@
 
 Olá, bem-vindo ao meu perfil do GitHub! Sou Gabriel Araújo, um entusiasta da programação e apaixonado por tecnologia. Aqui você encontrará informações sobre mim, meus projetos e habilidades.
 
+[Link para meu portfólio](https://portfolio-themyntt.netlify.app)
+
 ## Sobre mim
 
 - 🔭 Atualmente estou em busca da minha primeira colocação no mercado de trabalho;
