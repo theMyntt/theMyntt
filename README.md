@@ -1,70 +1,26 @@
-## Olá! 👋
+## Quem sou eu?
 
-Olá, bem-vindo ao meu perfil do GitHub! Sou Gabriel Araújo, um entusiasta da programação e apaixonado por tecnologia. Aqui você encontrará informações sobre mim, meus projetos e habilidades.
+Prazer, meu nome é Gabriel Araújo Lima, atualmente, me considero um Desenvolvedor Front-End. Faço o Curso Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio na [Etec Prof Horácio Augusto da Silveira](https://etechoracio.com.br), estou no 2º Ano e termino o curso em Dezembro de 2025.
 
-[Link para meu portfólio](https://portfolio-themyntt.netlify.app)
+Que tal visitar [Meu Portfólio?](https://portfolio-themyntt.netlify.app/)
 
-## Sobre mim
-
-- 🔭 Atualmente estou em busca da minha primeira colocação no mercado de trabalho;
-- 🌱 Busco, constantemente, aprendendizado e o aprimoramento de minhas habilidades em Análise e Desenvolvimento de Sistemas;
-- 💡 Tenho interesse em ReactJS, AngularJS, Flutter e PHP;
-- 🎓 Estou cursando Desenvolvimento de Sistemas na [Etec Horácio](https://etechoracio.com.br).
+[<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" />](www.linkedin.com/in/gabriel-araújo-lima-90667726a)
+[<img src="https://img.shields.io/badge/curriculum-black?style=for-the-badge&logo=adobeacrobatreader" />](https://drive.google.com/file/d/1VyYzAlm1i8H6AtbSx03Iqh8iQjgWJ_Ap/view?usp=sharing)
 
 ## Habilidades
-
-- Linguagens de programação: Java, Javascript, Typescript, PHP e SQL;
-- Serviços de Banco de Dados: MySQL, SQL Server e SQLite;
-- Frameworks: Básico em ReactJS e React Native;
-- Ferramentas: Visual Studio Codium, Git e Figma.
-
-<div>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>
-            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30px" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30px" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30px" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/>
-</div>
-
-## Projetos
-
-Aqui estão alguns dos meus projetos recentes:
-
-- [- Luxure](https://github.com/theMyntt/Luxure) Site de grife vestuária, que terá os sitemas de login, simulação de compra, carrinho, entre outros;
-- [- Regularize já!](https://github.com/theMyntt/regularize-ja) Site de assessoria imobiliária;
-- [- Search+](https://github.com/theMyntt/SearchPlus) Site para controle de acesso, com sistemas para alteração de data da última participação, e somatória "+1" na participação do cadastrado.
-- [- TS_Calculator](https://github.com/theMyntt/TS_Calculator) Calculadora feita com HTML, CSS e Typescript.
-
-## Contato
-
-Para entrar em contato comigo, você pode me escrever ou seguir meu perfil profissional:
-
-- Email: gabriel.araujo2902@outlook.com
-- LinkedIn: [Meu perfil](https://www.linkedin.com/in/gabriel-ara%C3%BAjo-lima-90667726a/)
-
-Aguardo seu contato.
-
-## Contribuições
-
-- Contribuições são bem-vindas! Para relatar algum problema em meus projetos, ou, caso você tenha alguma sugestão ou melhorias, fique à vontade para abrir uma issue ou um pull request.
-
+Além de HTML e CSS temos essas abaixo.
+<div>        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48px"/>               
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48px"/>     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="48px"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" width="48px"/>   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48px"/>          
+</div>          
