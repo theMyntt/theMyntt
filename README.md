@@ -1,6 +1,6 @@
 ## Quem sou eu?
 
-Prazer, meu nome é Gabriel Araújo Lima, atualmente, me considero um Desenvolvedor Front-End. Faço o Curso Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio na [Etec Prof Horácio Augusto da Silveira](https://etechoracio.com.br), estou no 2º Ano e termino o curso em Dezembro de 2025.
+Prazer, meu nome é Gabriel Araújo Lima, atualmente me considero um Desenvolvedor Front-End. Faço o Curso Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio na [Etec Prof Horácio Augusto da Silveira](https://etechoracio.com.br), estou no 2º Ano e termino o curso em Dezembro de 2025.
 
 Que tal visitar [Meu Portfólio?](https://portfolio-themyntt.netlify.app/)
 
