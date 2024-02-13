@@ -23,3 +23,8 @@ Além de HTML e CSS temos essas abaixo.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" width="48px"/>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48px"/>          
 </div>          
+
+## Contato
+[<img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail" />](mailto:gabriel.araujo2902@outlook.com)
+[<img src="https://img.shields.io/badge/telefone-darkgreen?style=for-the-badge&logo=googlemeet" />](tel:+5511992046942)
+- Preferivel enviar um email.
