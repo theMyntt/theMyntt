@@ -26,5 +26,5 @@ Além de HTML e CSS temos essas abaixo.
 
 ## Contato
 [<img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail" />](mailto:gabriel.araujo2902@outlook.com)
-[<img src="https://img.shields.io/badge/telefone-darkgreen?style=for-the-badge&logo=googlemeet" />](tel:+5511992046942)
+<a href="tel:+5511992046942"><img src="https://img.shields.io/badge/telefone-darkgreen?style=for-the-badge&logo=googlemeet" /></a>
 - Preferivel enviar um email.
