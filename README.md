@@ -7,7 +7,8 @@ Que tal visitar [Meu Portfólio?](https://portfolio-themyntt.netlify.app/)
 [<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" />](www.linkedin.com/in/gabriel-araújo-lima-90667726a)
 [<img src="https://img.shields.io/badge/curriculum-black?style=for-the-badge&logo=adobeacrobatreader" />](https://drive.google.com/file/d/1VyYzAlm1i8H6AtbSx03Iqh8iQjgWJ_Ap/view?usp=sharing)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themyntt&show_icons=true&theme=transparent)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theMyntt&bg_color=000000&color=00f&line=00f&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Habilidades
 Além de HTML e CSS temos essas abaixo.
@@ -30,3 +31,5 @@ Além de HTML e CSS temos essas abaixo.
 [<img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail" />](mailto:gabriel.araujo2902@outlook.com)
 - Telefone: +55 (11) 99204-6942
 - Preferivel enviar um email.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themyntt&show_icons=true&theme=transparent)
