@@ -1,8 +1,8 @@
-## Quem sou eu?
+## Me
 
-Prazer, meu nome é Gabriel Araújo Lima, atualmente me considero um Desenvolvedor Full-Stack. Faço o Curso Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio na [Etec Prof Horácio Augusto da Silveira](https://etechoracio.com.br), estou no 2º Ano e termino o curso em Dezembro de 2025.
+Pleasure to meet you, my name is Gabriel Araújo Lima. I am currently a Full-Stack Developer. I am enrolled in the Technical Course in Systems Development integrated with Secondary Education at [Etec Prof Horácio Augusto da Silveira](https://etechoracio.com.br). I am in the 2nd year and will complete the course in December 2025.
 
-Que tal visitar [Meu Portfólio?](https://portfolio-themyntt.netlify.app/)
+How about visiting my [portfolio?](https://portfolio-themyntt.netlify.app)
 
 [<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" />](www.linkedin.com/in/gabriel-araújo-lima-90667726a)
 [<img src="https://img.shields.io/badge/curriculum-black?style=for-the-badge&logo=adobeacrobatreader" />](https://drive.google.com/file/d/1VyYzAlm1i8H6AtbSx03Iqh8iQjgWJ_Ap/view?usp=sharing)
@@ -10,8 +10,7 @@ Que tal visitar [Meu Portfólio?](https://portfolio-themyntt.netlify.app/)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theMyntt&bg_color=000000&color=00f&line=00f&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## Habilidades
-Além de HTML e CSS temos essas abaixo.
+## Skills
 <div>        
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48px"/>
@@ -27,9 +26,8 @@ Além de HTML e CSS temos essas abaixo.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48px" />                 
 </div>          
 
-## Contato
+## Contact 
 [<img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail" />](mailto:gabriel.araujo2902@outlook.com)
-- Telefone: +55 (11) 99204-6942
-- Preferivel enviar um email.
+- Phone: +55 (11) 99204-6942
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themyntt&show_icons=true&theme=transparent)
