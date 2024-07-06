@@ -1,6 +1,6 @@
 ## Me
 
-Pleasure to meet you, my name is Gabriel Araújo Lima. I am currently a Full-Stack Developer. I am enrolled in the Technical Course in Systems Development integrated with Secondary Education at [Etec Prof Horácio Augusto da Silveira](https://etechoracio.com.br). I am in the 2nd year and will complete the course in December 2025.
+My name is Gabriel Araújo Lima, and I am a Full-Stack Developer. I am currently pursuing a Technical Systems Development program integrated with Secondary Education at [Etec Prof. Horácio Augusto da Silveira](https://etechoracio.com.br/). I am in my second year and am on track to complete the program in December 2025.
 
 How about visiting my [portfolio?](https://portfolio-themyntt.netlify.app)
 
