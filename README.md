@@ -30,4 +30,7 @@ How about visiting my [portfolio?](https://portfolio-themyntt.netlify.app)
 [<img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail" />](mailto:gabriel.araujo2902@outlook.com)
 - Phone: +55 (11) 99204-6942
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themyntt&show_icons=true&theme=transparent)
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=themyntt&show_icons=true&count_private=true&hide_border=true&title_color=00df7f7&icon_color=00df7f7&text_color=c9d1d9&bg_color=0d1117" alt="Eric Luis github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themyntt&layout=compact&hide_border=true&title_color=00df7f7&text_color=00df7f7&bg_color=0d1117" />
+</div>
