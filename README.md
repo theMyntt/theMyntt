@@ -9,6 +9,20 @@ How about visiting my [portfolio?](https://portfolio-themyntt.netlify.app)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theMyntt&bg_color=000000&color=00f&line=00f&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## Personal Stack
+1.
+<div style="display: flex; gap: 5px;">   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="48px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="48px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48px"/>
+</div>    
+
+2. 
+<div style="display: flex; gap: 5px;">   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="48px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48px"/>
+</div>  
 
 ## Skills
 <div style="display: flex; gap: 5px;">        
@@ -19,16 +33,10 @@ How about visiting my [portfolio?](https://portfolio-themyntt.netlify.app)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="48px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48px"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48px"/>                      
-</div>          
-
-## Learning
-<div style="display: flex; gap: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48px"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48px"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="48px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="48px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="48px"/>      
-</div>
+</div>          
 
 ## Contact 
 [<img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail" />](mailto:gabriel.araujo2902@outlook.com)
