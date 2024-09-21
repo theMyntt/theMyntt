@@ -16,7 +16,7 @@ I'm **Gabriel Araújo**, nice to meet you.
 	<code><img width="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/></code>
 </div> <br />
 
-- Full-Stack Web Developer @ [Focus Têxtil](https://www.focustextil.com.br/site/#/site)
+- Full-Stack Developer @ [Focus Têxtil](https://www.focustextil.com.br/site/#/site)
 - Software development technician @ [Etec Professor Horácio Augusto da Silveira](https://etechoracio.com.br/has/)
 
 <img width="61%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themyntt&layout=compact&hide_border=true&title_color=00df7f7&text_color=00df7f7&bg_color=0d1117" />
