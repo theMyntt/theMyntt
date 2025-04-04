@@ -14,6 +14,7 @@ I'm **Gabriel Araújo**, nice to meet you.
 	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Microsoft Azure DevOps" title="Microsoft Azure DevOps"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="Atlassian Bitbucket" title="Atlassian Bitbucket"/></code>
 	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" title="Google Cloud Platform"/></code>
 </div> <br />
