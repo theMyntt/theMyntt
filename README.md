@@ -19,7 +19,7 @@ I'm **Gabriel Araújo**, nice to meet you.
 	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" title="Google Cloud Platform"/></code>
 </div> <br />
 
-- Full-Stack Developer @ [Focus Têxtil](https://www.focustextil.com.br/site/#/site)
+- Java and C# Engineer
 - Software development technician @ [Etec Professor Horácio Augusto da Silveira](https://etechoracio.com.br/has/)
 
 <div align="center">
