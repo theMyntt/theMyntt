@@ -23,5 +23,5 @@ I'm **Gabriel Araújo**, nice to meet you.
 - Software development technician @ [Etec Professor Horácio Augusto da Silveira](https://etechoracio.com.br/has/)
 
 <div align="center">
-	<img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themyntt&layout=compact&hide_border=true&title_color=00df7f7&text_color=00df7f7&bg_color=0d1117" />
+	<img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themyntt&layout=compact&hide_border=true&title_color=00df7f7&text_color=00df7f7&bg_color=0d1117&hide=html,css,scss" />
 </div>
